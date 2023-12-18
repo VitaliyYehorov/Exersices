@@ -1,0 +1,2 @@
+# Exersices
+the odin project
